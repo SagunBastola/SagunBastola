@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm SagunBastola</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sagunbastola&label=Profile%20views&color=0e75b6&style=flat" alt="sagunbastola" /> </p>
+<h3 align="center">A Passionate Computer Engineering Student.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagunbastola" alt="sagunbastola" /></a> </p>
 
 - 🔭 I’m currently working on [EDA](https://github.com/SagunBastola/EDA_toy_store)
 
-- 🌱 I’m currently learning **Statsmodels**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Data Science Project**
+- 👯 I’m looking to collaborate on **Data Science**
+
+- 📫 How to reach me **sagunbastola34@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
