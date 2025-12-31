@@ -3,11 +3,11 @@
 
 
 
-- 🔭 I’m currently working on [EDA](https://github.com/SagunBastola/EDA_toy_store)
+- 🔭 I’m currently working on [Statistical Exploration and Preliminary Data Investigation](https://github.com/SagunBastola/EDA_toy_store)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I study **Algorithmic design and Data-driven analytics**
 
-- 👯 I’m looking to collaborate on **Data Science**
+- 👯 I’m open to working on data cleaning and processing to improve data quality and analytical reliability.
 
 - 📫 How to reach me **sagunbastola34@gmail.com**
 
