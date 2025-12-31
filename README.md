@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm SagunBastola</h1>
-<h3 align="center">A Passionate Computer Engineering Student.</h3>
-
+<h3 align="center">A third-semester Computer Engineering student actively building skills and exploring new technologies.</h3>
 
 
 - 🔭 I’m currently working on [Statistical Exploration and Preliminary Data Investigation](https://github.com/SagunBastola/EDA_toy_store)
