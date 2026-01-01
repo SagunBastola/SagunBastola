@@ -25,5 +25,5 @@
 <img src="https://img.shields.io/github/followers/sagunbastola?style=for-the-badge" />
 <img src="https://img.shields.io/github/stars/sagunbastola?style=for-the-badge" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagunbastola&" alt="sagunbastola" /></p>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sagunbastola&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sagunbastola&layout=compact)
 
