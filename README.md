@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Statistical Exploration and Preliminary Data Investigation](https://github.com/SagunBastola/EDA_toy_store)
 
-- 🌱 I study **Algorithmic design and Data-driven analytics**
+- 🌱 I am currently studying **Algorithmic design and Data-driven analytics**
 
 - 👯 I’m open to working on data cleaning and processing to improve data quality and analytical reliability.
 
