@@ -1,53 +1,86 @@
-<h1 align="center">Hi 👋, I'm SagunBastola</h1>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Sagun%20Bastola&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Student&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<h3 align="center">A third-semester Computer Engineering student actively building skills and exploring new technologies.</h3>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=SagunBastola ">
+    <img src="https://komarev.com/ghpvc/?username=SagunBastola &label=Profile%20views&color=00FFFF&style=flat-square" alt="SagunBastola 's profile views" />
+  </a>
+</p>
 
+<img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%" />
 
-
-
-
-- 🔭 I’m currently working on [Statistical Exploration and Preliminary Data Investigation](https://github.com/SagunBastola/EDA_toy_store)
-
-
-
-- 🌱 I am currently studying **Algorithmic design and Data-driven analytics**
-
-
-
+## 📌 About Me
+- A fourth-semester Computer Engineering student actively building skills and exploring new technologies.
+- 🔭 I’m currently working on Tax Collection Integrated offline system
+- 🌱 I am currently studying Algorithmic design and Data-driven analytics
 - 👯 I’m open to working on data cleaning and processing to improve data quality and analytical reliability.
+- 📫 How to reach me sagunbastola34@gmail.com
 
 
+## 🧠 My Focus Areas
+- Data Science
+- FastAPI
+- MySQL
 
-- 📫 How to reach me **sagunbastola34@gmail.com**
 
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://linkedin.com/in/sagun-bastola8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagun-bastola8" height="30" width="40" /></a>
-
-<a href="https://kaggle.com/sagunbastola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sagunbastola" height="30" width="40" /></a>
-
-<a href="https://fb.com/sagun.bastola.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sagun.bastola.3" height="30" width="40" /></a>
-
-<a href="https://instagram.com/sagun.bastola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sagun.bastola" height="30" width="40" /></a>
-
-<a href="https://www.leetcode.com/matix__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matix__" height="30" width="40" /></a>
-
-<a href="https://discord.gg/sagun08._51266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sagun08._51266" height="30" width="40" /></a>
-
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=SagunBastola &theme=prussian&hide_border=true&cache_seconds=86400" alt="SagunBastola 's GitHub Streak" width="49%" />
 </p>
 
 
+## 🛠️ Languages & Tools
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+</p>
 
-<img src="https://img.shields.io/github/followers/sagunbastola?style=for-the-badge" />
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />
 
-<img src="https://img.shields.io/github/stars/sagunbastola?style=for-the-badge" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagunbastola&" alt="sagunbastola" /></p>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
+
+</p>
+
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
+
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=SagunBastola )
+<br/>
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/sagun-bastola8/">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;
+  <a href="https://x.com/_bastolasagun">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;
+  <a href="https://wa.me/9779748751945">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" />
+  </a>&nbsp;
+  <a href="mailto:sagunbastola34@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
